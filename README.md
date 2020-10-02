@@ -72,7 +72,8 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream)
 
 
-
+#### Collaboration
+* [**Live Share Extension Pack**]: This extension pack consist of both the [**Live Share**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare) extension and the [**Live Share Audio**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio) extension, respectively.
 
 ### Language Support
 
@@ -94,7 +95,7 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 #### PHP
 
-* [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack): This extension pack consists of [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) and [**PHP IntelliSense**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense).
+* [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack): This extension pack consists of both the [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) extension and the [**PHP IntelliSense**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) extension, respectively.
 
 #### Markdown
 
