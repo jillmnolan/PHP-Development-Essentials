@@ -1,8 +1,10 @@
 # Web Development Essentials, a Visual Studio Code extension package.
 
+
 ## Background
 
 Are you tired of reinstalling extensions on each of your computer(s)?  How about when you have to reset computer entirely?  Or, how about you're an instructor, a hobbyist, or just *"getting your feet wet"* in the fine craft of web development who does not know which extension(s) to select to get the job done both **efficiently** and **effectively**.  Regardless, please do not waste time and energy on something so tedious as a process of installing extensions.  Extensions are, in a word, awesome!  Their premise is to extend the features and functionality of Visual Studio Code.
+
 
 ## What extensions will I get by selecting this extension package?
 
@@ -21,10 +23,6 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * [**Bracket Pair Colorizer 2**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-* [**CSS Peak**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
-* [**Git Graph**](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-* [**GitIgnore**](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
-* [**GitHub Pull Requests and Issues**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 * [**HTML Boilerplate**](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
 * [**HTML CSS Support**](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 * [**HTML Preview**](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)
@@ -52,11 +50,8 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**Better Align**](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 * [**Duplicate Selection or Line**](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
 * [**File Header Comment**](https://marketplace.visualstudio.com/items?itemName=doi.fileheadercomment)
-* [**Git History**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 * [**Peacock**](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 * [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-* [**Settings Sync**](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-* [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 * [**VSCode-PDF**](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 * [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 * [**PolaCode**](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
@@ -69,17 +64,26 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**Multiple clipboards for VSCode**](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
 * [**Save Typing**](https://marketplace.visualstudio.com/items?itemName=akhail.save-typing)
 * [**MetaGo**](https://marketplace.visualstudio.com/items?itemName=metaseed.metago)
+
+
+#### Collaboration & Productivity
+
 * [**CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream)
-
-
-#### Collaboration
-* [**Live Share Extension Pack**]: This extension pack consist of both the [**Live Share**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare) extension and the [**Live Share Audio**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio) extension, respectively.
+* [**Git Graph**](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+* [**Git History**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+* [**GitHub Pull Requests and Issues**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+* [**GitIgnore**](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+* [**Live Share Extension Pack**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack): This extension pack consist of both the [**Live Share**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare) extension and the [**Live Share Audio**](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio) extension, respectively.
+* [**Settings Sync**](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+* [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
 ### Language Support
 
 #### HTML
 
 #### CSS/Bootstrap/SCSS/Mocha
+
+* [**CSS Peak**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
 #### JavaScript
 
@@ -101,7 +105,6 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 * [**Markdown All In One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 * [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-
 
 
 ## Notes
