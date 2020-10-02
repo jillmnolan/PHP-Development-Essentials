@@ -66,7 +66,7 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**MetaGo**](https://marketplace.visualstudio.com/items?itemName=metaseed.metago)
 
 
-#### Collaboration & Productivity
+### Collaboration & Productivity
 
 * [**CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream)
 * [**Git Graph**](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
@@ -97,14 +97,15 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 * [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
-#### PHP
-
-* [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack): This extension pack consists of both the [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) extension and the [**PHP IntelliSense**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) extension, respectively.
-
 #### Markdown
 
 * [**Markdown All In One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 * [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+### WordPress
+
+* [**WordPress Extension Pack**](https://marketplace.visualstudio.com/items?itemName=jpagano.wordpress-vscode-extensionpack), which consists of:
+** [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack): This extension pack consists of both the [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) extension and the [**PHP IntelliSense**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) extension, respectively.
 
 
 ## Notes
@@ -114,7 +115,6 @@ It is my pledge to update this **Extension Package** with update extension as ne
 ## Upcoming Extension Packages
 
 * **.NET Core Extension Package**
-* **PHP Extension Package**
 * **Java Extension Package**
 * **Python Extension Package**
 * **Angular Extension Package**
