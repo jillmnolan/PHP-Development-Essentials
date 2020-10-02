@@ -74,13 +74,13 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 
 
-## Language Support
+### Language Support
 
-### HTML
+#### HTML
 
-### CSS/Bootstrap/SCSS/Mocha
+#### CSS/Bootstrap/SCSS/Mocha
 
-### JavaScript
+#### JavaScript
 
 * [**Babel JavaScript**](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 * [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
@@ -88,13 +88,15 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**NPM Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 * [**Search Node_Modules**](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
 
-### TypeScript
+#### TypeScript
 
 * [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
-### PHP
+#### PHP
 
-### Markdown
+* [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack)
+
+#### Markdown
 
 * [**Markdown All In One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 * [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
