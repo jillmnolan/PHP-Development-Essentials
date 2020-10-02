@@ -2,7 +2,7 @@
 
 ## Background
 
-Are you tired of reinstalling extensions on each of your computer(s)?  How about when you have to reset computer entirely?  Or, how about you're an instructor, a hobbyist, or just "getting your feet wet" in the fine craft of web development who does not know which extension(s) to select to get the job done both **efficiently** and **effectively**.  Regardless, please do not waste time and energy on something so tedious as a process of installing extensions.  Extensions are, in a word, awesome!  Their premise is to extend the features and functionality of Visual Studio Code.
+Are you tired of reinstalling extensions on each of your computer(s)?  How about when you have to reset computer entirely?  Or, how about you're an instructor, a hobbyist, or just *"getting your feet wet"* in the fine craft of web development who does not know which extension(s) to select to get the job done both **efficiently** and **effectively**.  Regardless, please do not waste time and energy on something so tedious as a process of installing extensions.  Extensions are, in a word, awesome!  Their premise is to extend the features and functionality of Visual Studio Code.
 
 ## What extensions will I get by selecting this extension package?
 
@@ -19,7 +19,6 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 * [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-* [**Babel JavaScript**](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 * [**Bracket Pair Colorizer 2**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 * [**CSS Peak**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
@@ -39,7 +38,6 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**JavaScript (ES6) Code Snippets**](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 * [**Path Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [**IntelliSense for CSS Class Names In HTML**](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
-* [**NPM Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 * [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 * [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 * [**Visual Studio IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
@@ -54,12 +52,10 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**Better Align**](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 * [**Duplicate Selection or Line**](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
 * [**File Header Comment**](https://marketplace.visualstudio.com/items?itemName=doi.fileheadercomment)
-* [**Search Node_Modules**](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
 * [**Git History**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 * [**Peacock**](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 * [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 * [**Settings Sync**](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-* [**Markdown All In One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 * [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 * [**VSCode-PDF**](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 * [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
@@ -74,13 +70,36 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**Save Typing**](https://marketplace.visualstudio.com/items?itemName=akhail.save-typing)
 * [**MetaGo**](https://marketplace.visualstudio.com/items?itemName=metaseed.metago)
 * [**CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream)
-* [**ES6 Mocha Snippets**](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets)
 
-#### Linters
 
+
+
+## Language Support
+
+### HTML
+
+### CSS/Bootstrap/SCSS/Mocha
+
+### JavaScript
+
+* [**Babel JavaScript**](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 * [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-* [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+* [**ES6 Mocha Snippets**](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets)
+* [**NPM Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+* [**Search Node_Modules**](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+
+### TypeScript
+
 * [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+
+### PHP
+
+### Markdown
+
+* [**Markdown All In One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+* [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+
 
 ## Notes
 
