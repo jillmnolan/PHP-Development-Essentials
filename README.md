@@ -105,7 +105,7 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 ### WordPress
 
 * [**WordPress Extension Pack**](https://marketplace.visualstudio.com/items?itemName=jpagano.wordpress-vscode-extensionpack), which consists of:
-** [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack): This extension pack consists of both the [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) extension and the [**PHP IntelliSense**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) extension, respectively.
+  * [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack): This extension pack consists of both the [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) extension and the [**PHP IntelliSense**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) extension, respectively.
 
 
 ## Notes
