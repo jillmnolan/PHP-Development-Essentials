@@ -16,11 +16,16 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 ### Extensions
 
 * [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [**Auto Import**](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 * [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+* [**Babel JavaScript**](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 * [**Bracket Pair Colorizer 2**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+* [**Bookmarks**](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 * [**CSS Peak**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
-* [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [**Git Graph**](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+* [**GitIgnore**](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+* [**GitHub Pull Requests and Issues**](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 * [**HTML Boilerplate**](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
 * [**HTML CSS Support**](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 * [**HTML Preview**](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)
@@ -50,7 +55,32 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**Duplicate Selection or Line**](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
 * [**File Header Comment**](https://marketplace.visualstudio.com/items?itemName=doi.fileheadercomment)
 * [**Search Node_Modules**](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+* [**Git History**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+* [**Peacock**](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+* [**Code Runner**](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+* [**Settings Sync**](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+* [**Markdown All In One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+* [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+* [**VSCode-PDF**](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+* [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+* [**PolaCode**](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+* [**Output Colorizer**](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+* [**Partial Diff**](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
+* [**Jumpy**](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
+* [**Copy Relative Path**](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
+* [**Rewrap**](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap)
+* [**Gremlins Tracker For Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
+* [**Multiple clipboards for VSCode**](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
+* [**Save Typing**](https://marketplace.visualstudio.com/items?itemName=akhail.save-typing)
+* [**MetaGo**](https://marketplace.visualstudio.com/items?itemName=metaseed.metago)
+* [**CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream)
+* [**ES6 Mocha Snippets**](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets)
 
+#### Linters
+
+* [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+* [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
 ## Notes
 
