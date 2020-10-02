@@ -29,7 +29,6 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**Incident Rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 * [**Prettier - Code formatter**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [**Open In Browser**](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
-* [**REST Client**](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 * [**EditorConfig for VS Code**](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [**Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 * [**Beautify**](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
@@ -106,6 +105,19 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 * [**WordPress Extension Pack**](https://marketplace.visualstudio.com/items?itemName=jpagano.wordpress-vscode-extensionpack), which consists of:
   * [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack): This extension pack consists of both the [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) extension and the [**PHP IntelliSense**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) extension, respectively.
+  * [**REST Client**](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): Allows you to send HTTP request and view the response in VS Code directly.
+  * [**WordPress Snippets**](https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet): A collection of WordPress snippets and autocompletions for VS Code.
+  * [**ACF-Snippets**](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet): Advanced Custom Field Snippets.
+  * [**WordPress Toolbox**](https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox): The ultimate collection of **snippets** for every **WordPress function**, **class** and **constant**, complete with **argument type hints** and **brief descriptions**, within **VS Code**.
+  * [**WooCommerce - Snippets & Autocomplete**](https://marketplace.visualstudio.com/items?itemName=claudiosanches.woocommerce): Adds [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) **snippets** and **autocompletion** of **functions**, **classes**, and **hooks**.
+  * [**PHP DocBuilder**](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker): A simple, dependency free **PHP**-specific **DocBlocking package**.
+  * [**phpcs**](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs): This linter plugin for Visual Studio Code provides an interface to phpcs. It will be used with files that have the “PHP” language mode.
+  * [**WPCS Whitelist Flags**](https://marketplace.visualstudio.com/items?itemName=claudiosanches.wpcs-whitelist-flags): Adds all [**WordPress Coding Standards whitelist flags**](https://github.com/WordPress/WordPress-Coding-Standards/wiki/Whitelisting-code-which-flags-errors) as **snippets**.
+* [**Elementor Snippets**](https://marketplace.visualstudio.com/items?itemName=laurencebahiirwa.elementor-snippets): **Code snippets** to build **Elementor Plugin widgets**.
+* [**Composer**](https://marketplace.visualstudio.com/items?itemName=ikappas.composer): Provides an **interface** to **Composer dependency manager** for **PHP**. Likewise, it provides **schema validation** for **composer.json configuration files**.
+
+**Note**: Please be advised that the **WordPress Extension Pack** recommends **standalone installation** of the [**WordPress Coding Standards for PHP_CodeSniffer**](https://github.com/WordPress/WordPress-Coding-Standards#standalone), which is a collection of [**PHP_CodeSniffer**](https://github.com/squizlabs/PHP_CodeSniffer) **rules** (**"sniffs"**) to validate **code** developed for **WordPress**. These **sniffs** ensures **code quality** and adherence to **coding conventions**, specifically the official [**WordPress Coding Standards**](https://make.wordpress.org/core/handbook/best-practices/coding-standards/).
+
 
 
 ## Notes
