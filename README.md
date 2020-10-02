@@ -94,7 +94,7 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 #### PHP
 
-* [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack)
+* [**PHP Extension Pack**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack): This extension pack consists of [**PHP Debug**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) and [**PHP IntelliSense**](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense).
 
 #### Markdown
 
