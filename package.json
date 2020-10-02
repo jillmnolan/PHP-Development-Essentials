@@ -1,0 +1,64 @@
+{
+    "name": "web-dev-essentials",
+    "displayName": "Web_Dev_Essentials",
+    "description": "",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "publisher": "JillMNolan",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/jillmnolan/web-dev-essentials"
+    },
+
+    "extensionPack": [ 
+        "Angular.ng-template", 
+        "batisteo.vscode-django", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "dbaeumer.vscode-eslint", 
+        "donjayamanne.python-extension-pack", 
+        "ecmel.vscode-html-css", 
+        "EditorConfig.EditorConfig", 
+        "eg2.vscode-npm-script", 
+        "Equinusocio.vsc-community-material-theme", 
+        "Equinusocio.vsc-material-theme", 
+        "equinusocio.vsc-material-theme-icons", 
+        "esbenp.prettier-vscode", 
+        "felixfbecker.php-debug", 
+        "felixfbecker.php-intellisense", 
+        "felixfbecker.php-pack", 
+        "firefox-devtools.vscode-firefox-debug", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-complete-tag", 
+        "formulahendry.auto-rename-tag", 
+        "googlecloudtools.cloudcode", 
+        "humao.rest-client", 
+        "johnpapa.angular-essentials", 
+        "johnpapa.Angular2", 
+        "johnpapa.vscode-peacock", 
+        "johnpapa.winteriscoming", 
+        "magicstack.MagicPython", 
+        "ms-python.python", 
+        "ms-vscode-remote.remote-containers", 
+        "ms-vscode-remote.remote-wsl", 
+        "msjsdiag.debugger-for-chrome", 
+        "msjsdiag.debugger-for-edge", 
+        "nrwl.angular-console", 
+        "PKief.material-icon-theme", 
+        "ritwickdey.live-sass", 
+        "ritwickdey.LiveServer", 
+        "s-kainet.rest-client", 
+
+        "sidthesloth.html5-boilerplate", 
+        "techer.open-in-browser", 
+        "tht13.html-preview-vscode", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "wholroyd.jinja"
+    ]
+}
