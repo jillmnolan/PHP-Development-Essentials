@@ -1,6 +1,6 @@
-# README
+# Web Development Essentials, a Visual Studio Code extension package.
 
-## This is the README for your extension pack "web-dev-essentials"
+## What extensions will you get by selecting this extension package?
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
