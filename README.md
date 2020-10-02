@@ -37,10 +37,24 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**NPM Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 * [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 * [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+* [**Visual Studio IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+* [**Version Lens**](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+* [**NPM**](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+* [**DotENV**](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+* [**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+* [**Todo Tree**](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+* [**Change-Case**](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
+* [**Language-Stylus**](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
+* [**SCSS Formatter**](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter)
+* [**Better Align**](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+* [**Duplicate Selection or Line**](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
+* [**File Header Comment**](https://marketplace.visualstudio.com/items?itemName=doi.fileheadercomment)
+* [**Search Node_Modules**](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+
 
 ## Notes
 
-It is my pledge to update this **Extension Package** with update extension as needed to perform the job efficiently and effectively.
+It is my pledge to update this **Extension Package** with update extension as needed to perform the job efficiently and effectively.  Likewise, the **Extensions** list will be categorized accordingly in the near future.  Cheers!  :)
 
 ## Upcoming Extension Packages
 
