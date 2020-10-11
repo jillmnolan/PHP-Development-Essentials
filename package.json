@@ -1,8 +1,8 @@
 {
-    "name": "web-dev-essentials",
+    "name": "web-development-essentials",
     "displayName": "Web Development Essentials",
     "description": "Web Development Essentials Extension Pack for Visual Studio Code",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "icon": "icon.png",
     "publisher": "JillMNolan",
     "engines": {
