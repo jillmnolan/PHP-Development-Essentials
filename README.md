@@ -10,6 +10,48 @@ Are you tired of reinstalling extensions on each of your computer(s)?  How about
 
 Glad, that you've asked!  Please find the supervening extensions and subsequent "themes" as well.  Of course, I always love to hear your suggestions to improve this extension package.
 
+### Updated to v. 0.0.4 with these extensions:
+
+* [**Debugger for Firefox**](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
+
+* [**Debugger for Microsoft Edge**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge)
+
+* [**Open PHP/HTML/JS in Browser](https://marketplace.visualstudio.com/items?itemName=PrimaFuture.open-php-html-js-in-browser)
+
+* [**Document This**](https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis)
+
+
+
+#### Update Notes
+
+* **Please puruse the [VSCode Variables Reference](https://code.visualstudio.com/docs/editor/variables-reference), if you wish to use variables substitution.**
+
+* **VSCode Keyword Shortcuts**
+
+  * [**Windows**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf): Link contains PDF.
+
+  * [**macOS**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf): Link contains PDF.
+
+  * [**Linux**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf): Link contains PDF.
+
+* **Please puruse the [VSCode Keybindings](https://code.visualstudio.com/docs/getstarted/keybindings), if you wish to use custom keybindings.**
+  * [**Optional Keymap Extensions**](https://marketplace.visualstudio.com/search?target=VSCode&category=Keymaps&sortBy=Relevance): I recommend the specific keybinding extension that meets your use case through Microsoft. Personally, my preference is [**Resharper 9 Keybindings**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.resharper9-keybindings).  However, it's whatever you wish. Cheers! :)
+
+* **Please puruse the [VSCode Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) to make your experience a little bit more enjoyable.**
+
+* **Relevant [Language Specific Documentation](https://code.visualstudio.com/docs/languages/overview), if you're a nerd like me. :)**
+  * [**HTML**](https://code.visualstudio.com/docs/languages/html)
+  * [**CSS, SCSS, and Less**](https://code.visualstudio.com/docs/languages/css)
+  * [**JavaScript**](https://code.visualstudio.com/docs/languages/javascript)
+  * [**Working with JavaScript**](https://code.visualstudio.com/docs/nodejs/working-with-javascript)
+  * [**Recommended JavaScript Extensions**](https://code.visualstudio.com/docs/nodejs/extensions): No worries, I've got you covered on this. ;-)
+  * [**JSON**](https://code.visualstudio.com/docs/languages/json)
+  * [**PHP**](https://code.visualstudio.com/docs/languages/php)
+  * [**Debugging Recipe**](https://code.visualstudio.com/docs/nodejs/debugging-recipes)
+
+
+* **Please feel free to disable any plugin that you do not wish to have activated from the use of our extension pack. :)**
+
 
 ### Themes
 
@@ -50,10 +92,6 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 * [**Beautify**](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
-* [**JavaScript (ES6) Code Snippets**](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-
-* [**Path Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-
 * [**IntelliSense for CSS Class Names In HTML**](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
 * [**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
@@ -63,8 +101,6 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 * [**Visual Studio IntelliCode**](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 * [**Version Lens**](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
-
-* [**NPM**](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 
 * [**DotENV**](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
@@ -143,13 +179,23 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 #### JavaScript
 
+* [**Node.js Extension Pack**](https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack)
+
+  * [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+  * [**NPM**](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+
+  * [**JavaScript (ES6) Code Snippets**](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
+  * [**Search Node_Modules**](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+
+  * [**NPM Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+  * [**Path Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
 * [**Babel JavaScript**](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 
-* [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
 * [**ES6 Mocha Snippets**](https://marketplace.visualstudio.com/items?itemName=spoonscen.es6-mocha-snippets)
-
-* [**NPM Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
 * [**Search Node_Modules**](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
 
