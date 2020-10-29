@@ -4,11 +4,7 @@
 
 Are you tired of reinstalling extensions on each of your computer(s)?  How about when you have to reset computer entirely?  Or, how about you're an instructor, a hobbyist, or just *"getting your feet wet"* in the fine craft of PHP development who does not know which extension(s) to select to get the job done both **efficiently** and **effectively**.  Regardless, please do not waste time and energy on something so tedious as a process of installing extensions.  Extensions are, in a word, awesome!  Their premise is to extend the features and functionality of Visual Studio Code.
 
-## What extensions will I get by selecting this extension package?
-
-Glad, that you've asked!  Please find the supervening extensions and subsequent "themes" as well.  Of course, I always love to hear your suggestions to improve this extension package.
-
-### Update Notes
+## Visual Studio Code Tips and Tricks from its Docs
 
 * **Please puruse the [VSCode Variables Reference](https://code.visualstudio.com/docs/editor/variables-reference), if you wish to use variables substitution.**
 
@@ -44,7 +40,9 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
   * [**PHP**](https://code.visualstudio.com/docs/languages/php)
 
-* **Please feel free to disable any plugin that you do not wish to have activated from the use of our extension pack. :)**
+## What extensions will I get by selecting this extension package?
+
+Glad, that you've asked!  Please find the supervening extensions and subsequent "themes" as well.  Of course, I always love to hear your suggestions to improve this extension package. To do so, please create a new issue in the [**Issues Section**](https://github.com/jillmnolan/PHP-Development-Essentials/issues). After all, the ultimate goal for this extension pack is convenience at the click of one button.
 
 ### Themes
 
@@ -243,8 +241,50 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 **Note**: Please be advised that the **WordPress Extension Pack** recommends **standalone installation** of the [**WordPress Coding Standards for PHP_CodeSniffer**](https://github.com/WordPress/WordPress-Coding-Standards#standalone), which is a collection of [**PHP_CodeSniffer**](https://github.com/squizlabs/PHP_CodeSniffer) **rules** (**"sniffs"**) to validate **code** developed for **WordPress**. These **sniffs** ensures **code quality** and adherence to **coding conventions**, specifically the official [**WordPress Coding Standards**](https://make.wordpress.org/core/handbook/best-practices/coding-standards/).
 
+* **Please feel free to disable any plugin that you do not wish to have activated from the use of our extension pack. :)**
+
 ## Notes
 
-It is my pledge to update this **Extension Package** with update extension as needed to perform the job efficiently and effectively.  Likewise, the **Extensions** list will be categorized accordingly in the near future.  Cheers!  :)
+It is my pledge to update this **Extension Package** with update extension as needed to perform the job efficiently and effectively.  Likewise, the **Extensions** list will be categorized accordingly and more detailed information regarding plugins will be incorporated in the near future. I will certainly be on the lookup for some helpful Web Development hints and tips to make your experience enjoyable.   Cheers!  :)
+
+## Recommended Tutorial on Visual Studio Code
+
+* [**Visual Studio Code Crash Course**](https://www.youtube.com/watch?v=WPqXP_kLzpo)
+
+## Recommended YouTube Channels for Web Development
+
+* [**Academind**](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Also recommend checking out Maximilian Schwarzmüller's [**Udemy courses**](https://www.udemy.com/user/maximilian-schwarzmuller/).
+  
+* [**Chris Coyers**](https://www.youtube.com/user/realcsstricks): Check out Chris' affiliated website [**CSS Tricks**](https://css-tricks.com/).
+  
+* [**Colt Steele**](https://www.youtube.com/c/ColtSteeleCode/videos): Also recommend Colt's [**Udemy courses**](https://www.udemy.com/user/coltsteele/).
+  
+* [**FreeCodeCamp.org**](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): Check out [**FreeCodeCamp.org**](https://www.freecodecamp.org/).
+
+* [**Traversy Media**](https://www.youtube.com/user/TechGuyWeb): Also recommend Brad Traversy's [**Udemy courses**](https://www.udemy.com/user/brad-traversy/).
+
+* [**Zero To Mastery**](https://www.youtube.com/channel/UCt7T2EvYBqvlxNU3fbE4Y7g): Also **highly recommend** Andrei Neagoie's [**Udemy courses**](https://www.udemy.com/user/andrei-neagoie/).
+
+## Other Visual Studio Code Extensions
+
+* [**COBOL Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.cobol-essentials)
+
+* [**Java Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.java-essentials)
+
+* [**.NET Core Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.dotnet-core-essentials)
+
+* [**Python Essentials**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.python-essentials)
+
+* [**Web Development Essentials Pack**](https://marketplace.visualstudio.com/items?itemName=JillMNolan.web-development-essentials-pack): A condensed version of the PHP Development Essentials pack for Visual Studio Code, whose main premise is centered around JavaScript ecosystem.
+
+## Attributions
+
+Thank you to all the developers who created the extensions that were utilized in this extension pack.  Your hard work and dedication is appreciated immensely. 
+
+## Disclaimer
+
+**Please be advised that this is an "off-the-clock" passion project, whose intent is to be utilized by anyone (including my colleagues) who will derive benefit from this one-click installation of popular extensions that I felt was a relevant theme to this Extension Pack.  Moreover, the recommendation regarding Udemy courses are from my personal experience that led to my success as a web developer and allowed me to achieve a senior developer role (within two years) whose primary function is to advise management on the current trends, best practices, and standards regarding web, mobile, and SharePoint/Office 365 development.**
+
+**Accordingly, I am constantly learning and will often make mistakes.  Therefore, please assist me in making this Extension Pack better (i.e., formatting of this README or if you care about keeping the CHANGELOG up-to-date) by feeling free to reach out to me.**
 
 **Please enjoy! Cheers!**
