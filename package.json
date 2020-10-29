@@ -2,7 +2,7 @@
     "name": "php-development-essentials",
     "displayName": "PHP Development Essentials",
     "description": "PHP Development Essentials Extension Pack for Visual Studio Code",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "icon": "icon.png",
     "publisher": "JillMNolan",
     "engines": {

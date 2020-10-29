@@ -1,9 +1,17 @@
 # Change Log
 
-All notable changes to the "web-dev-essentials" extension pack will be documented in this file.
+## Updated to v. 0.0.4 with these extensions:
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+* [**Debugger for Firefox**](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 
-## [Unreleased]
+* [**Debugger for Microsoft Edge**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge)
 
-- Initial release
+* [**Document This**](https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis)
+
+* [**Open PHP/HTML/JS in Browser**](https://marketplace.visualstudio.com/items?itemName=PrimaFuture.open-php-html-js-in-browser)
+
+## Updates in v. 0.0.5
+
+* Fixed the typo in the extension Indent Rainbow, which was originally erronously named "Incident Rainbow."
+
+* Alphabetize the list of extensions.
