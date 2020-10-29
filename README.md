@@ -207,7 +207,7 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 * [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-### PHP & WordPress
+#### PHP & WordPress
 
 * [**PHP Productive Pack**](https://marketplace.visualstudio.com/items?itemName=onecentlin.php-productive-pack)
 
@@ -286,5 +286,7 @@ Thank you to all the developers who created the extensions that were utilized in
 **Please be advised that this is an "off-the-clock" passion project, whose intent is to be utilized by anyone (including my colleagues) who will derive benefit from this one-click installation of popular extensions that I felt was a relevant theme to this Extension Pack.  Moreover, the recommendation regarding Udemy courses are from my personal experience that led to my success as a web developer and allowed me to achieve a senior developer role (within two years) whose primary function is to advise management on the current trends, best practices, and standards regarding web, mobile, and SharePoint/Office 365 development.**
 
 **Accordingly, I am constantly learning and will often make mistakes.  Therefore, please assist me in making this Extension Pack better (i.e., formatting of this README or if you care about keeping the CHANGELOG up-to-date) by feeling free to reach out to me.**
+
+## Signing Off
 
 **Please enjoy! Cheers!**

@@ -32,3 +32,4 @@
 
 * Referenced the Issues section of GitHub so that users can provide feedback on this Extension Pack in hopes to improve it.
 
+* Changed the heading for PHP and WordPress
