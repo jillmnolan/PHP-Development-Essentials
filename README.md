@@ -1,25 +1,16 @@
-# PHP Development Essentials, a Visual Studio Code extension package.
-
-
+# PHP Development Essentials, a Visual Studio Code extension package
 
 ## Background
 
-
 Are you tired of reinstalling extensions on each of your computer(s)?  How about when you have to reset computer entirely?  Or, how about you're an instructor, a hobbyist, or just *"getting your feet wet"* in the fine craft of PHP development who does not know which extension(s) to select to get the job done both **efficiently** and **effectively**.  Regardless, please do not waste time and energy on something so tedious as a process of installing extensions.  Extensions are, in a word, awesome!  Their premise is to extend the features and functionality of Visual Studio Code.
-
-
 
 ## What extensions will I get by selecting this extension package?
 
-
 Glad, that you've asked!  Please find the supervening extensions and subsequent "themes" as well.  Of course, I always love to hear your suggestions to improve this extension package.
 
-
-#### Update Notes
-
+### Update Notes
 
 * **Please puruse the [VSCode Variables Reference](https://code.visualstudio.com/docs/editor/variables-reference), if you wish to use variables substitution.**
-
 
 * **VSCode Keyword Shortcuts**
 
@@ -29,14 +20,11 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
   * [**Windows**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf): Link contains PDF.
 
-
 * **Please puruse the [VSCode Keybindings](https://code.visualstudio.com/docs/getstarted/keybindings), if you wish to use custom keybindings.**
 
   * [**Optional Keymap Extensions**](https://marketplace.visualstudio.com/search?target=VSCode&category=Keymaps&sortBy=Relevance): I recommend the specific keybinding extension that meets your use case through Microsoft. Personally, my preference is [**Resharper 9 Keybindings**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.resharper9-keybindings).  However, it's whatever you wish. Cheers! :)
 
-
 * **Please puruse the [VSCode Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) to make your experience a little bit more enjoyable.**
-
 
 * **Relevant [Language Specific Documentation](https://code.visualstudio.com/docs/languages/overview), if you're a nerd like me. :)**
 
@@ -56,18 +44,13 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
   * [**PHP**](https://code.visualstudio.com/docs/languages/php)
 
-
 * **Please feel free to disable any plugin that you do not wish to have activated from the use of our extension pack. :)**
 
-
 ### Themes
-
 
 * [**Community Material Theme**](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
 
 * [**Material Theme Icon**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-
-
 
 ### Extensions
 
@@ -170,10 +153,7 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 * [**WakaTime**](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
-
-
 ### Collaboration & Productivity
-
 
 * [**CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review**](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream)
 
@@ -191,22 +171,15 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
 * [**Settings Sync**](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-
-
 ### Language Support
 
-
 #### CSS/Bootstrap/SCSS/Mocha
-
 
 * [**CSS Peak**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
 * [**Sass/Less/Scss/Typescript/Javascript/Jade/Pug Compile Hero Pro**](https://marketplace.visualstudio.com/items?itemName=Wscats.eno)
 
-
-
 #### JavaScript
-
 
 * [**Babel JavaScript**](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 
@@ -226,26 +199,17 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
   * [**Search Node_Modules**](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
 
-
-
 #### TypeScript
-
 
 * [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
-
-
 #### Markdown
-
 
 * [**Markdown All In One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 * [**MarkdownLint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-
-
 ### PHP & WordPress
-
 
 * [**PHP Productive Pack**](https://marketplace.visualstudio.com/items?itemName=onecentlin.php-productive-pack)
 
@@ -277,15 +241,10 @@ Glad, that you've asked!  Please find the supervening extensions and subsequent 
 
   * [**WPCS Whitelist Flags**](https://marketplace.visualstudio.com/items?itemName=claudiosanches.wpcs-whitelist-flags): Adds all [**WordPress Coding Standards whitelist flags**](https://github.com/WordPress/WordPress-Coding-Standards/wiki/Whitelisting-code-which-flags-errors) as **snippets**.
 
-
 **Note**: Please be advised that the **WordPress Extension Pack** recommends **standalone installation** of the [**WordPress Coding Standards for PHP_CodeSniffer**](https://github.com/WordPress/WordPress-Coding-Standards#standalone), which is a collection of [**PHP_CodeSniffer**](https://github.com/squizlabs/PHP_CodeSniffer) **rules** (**"sniffs"**) to validate **code** developed for **WordPress**. These **sniffs** ensures **code quality** and adherence to **coding conventions**, specifically the official [**WordPress Coding Standards**](https://make.wordpress.org/core/handbook/best-practices/coding-standards/).
-
-
 
 ## Notes
 
-
 It is my pledge to update this **Extension Package** with update extension as needed to perform the job efficiently and effectively.  Likewise, the **Extensions** list will be categorized accordingly in the near future.  Cheers!  :)
-
 
 **Please enjoy! Cheers!**
