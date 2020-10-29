@@ -1,7 +1,7 @@
 {
-    "name": "web-dev-essentials",
-    "displayName": "Web Development Essentials",
-    "description": "Web Development Essentials Extension Pack for Visual Studio Code",
+    "name": "php-development-essentials",
+    "displayName": "PHP Development Essentials",
+    "description": "PHP Development Essentials Extension Pack for Visual Studio Code",
     "version": "0.0.4",
     "icon": "icon.png",
     "publisher": "JillMNolan",
@@ -14,7 +14,7 @@
 
     "repository": {
         "type": "git", 
-        "url": "https://github.com/jillmnolan/web-dev-essentials"
+        "url": "https://github.com/jillmnolan/php-development-essentials"
     },
 
     "extensionPack": [ 
